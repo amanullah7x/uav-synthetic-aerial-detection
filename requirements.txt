@@ -1,0 +1,5 @@
+# training / evaluation (Python 3.10+, CUDA build of torch recommended)
+ultralytics>=8.3
+torch>=2.1
+pillow
+# generation runs inside Isaac Sim 6.0's own Python (~/isaacsim/python.sh); asset conversion uses tools/requirements.txt

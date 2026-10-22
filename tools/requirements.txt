@@ -1,0 +1,8 @@
+usd-core
+trimesh
+pycollada
+pillow
+numpy
+scipy
+lxml
+networkx

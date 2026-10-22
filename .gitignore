@@ -1,0 +1,12 @@
+# generated / downloaded data
+/data/
+/runs/
+/logs/
+assets/src/
+assets/isaac_people/
+assets/baylands
+assets/car_*/
+assets/person_*/
+tools/.venv/
+*.pt
+__pycache__/
